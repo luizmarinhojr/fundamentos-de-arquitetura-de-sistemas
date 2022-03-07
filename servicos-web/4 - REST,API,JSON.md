@@ -19,7 +19,7 @@
 ### Estrutura do REST
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/100722777/156992452-2a704800-63e6-4d48-8735-1b3484c443a7.png" />
+    <img src="https://user-images.githubusercontent.com/100722777/156992452-2a704800-63e6-4d48-8735-1b3484c443a7.png" width="600px" />
 </div>
 
 <div align="center">
