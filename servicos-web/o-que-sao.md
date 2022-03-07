@@ -1,4 +1,4 @@
-# <center>Serviços Web</center>
+# Serviços Web
 
 
 
@@ -9,8 +9,6 @@
 * Inicialmente Serviços Web foram criados para troca de mensagens utilizando a linguagem XML (Extensible Markup Language) sobre o protocólo HTTP sendo identificado por URI (Uniform Resource Identifier)
 
 * Pode-se dizer que Serviços Web são API'S que se comunicam por meio de redes sobre o protocólo HTTP.
-
-
 
 ### Vantagens
 
@@ -23,8 +21,6 @@
 - Segurança
 
 - Custos
-
-
 
 ### Principais Tecnologias
 
