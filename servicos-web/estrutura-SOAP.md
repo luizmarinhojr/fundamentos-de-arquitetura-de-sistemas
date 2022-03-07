@@ -44,7 +44,9 @@
 
 - O "SOAP Message" possui uma estrutura única que deve sempre ser seguida.
 
-<img title="" src="file:///C:/Users/luizc/OneDrive/Documents/CURSO JAVA/Screenshot_1.png" alt="" data-align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/100722777/156966568-c397adb9-b913-4f44-97dc-775fae705133.png" />
+</div>
 
 - SOAP Envelope é o primeiro elemento do documento e é usado para encapsular toda a mensagem SOAP.
 
@@ -56,6 +58,8 @@
 
 ### Mensagem SOAP
 
-<img title="" src="file:///C:/Users/luizc/OneDrive/Documents/CURSO JAVA/Screenshot_2.png" alt="">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/100722777/156967253-cf3fd7e0-4fec-4296-82eb-f3eda556eac1.png" />
+</div>
 
-A tag Envelope engloba a tag Header e a tag Body.
+<div align="center">A tag Envelope engloba a tag Header e a tag Body.</div>
