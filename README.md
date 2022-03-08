@@ -22,8 +22,8 @@ _<u>OBS: Lembrando que todo conteúdo será atualizado com novas informações e
     
     - [REST, API e JSON](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/4%20-%20REST%2CAPI%2CJSON.md)
     
-    - [Integração com REST e métodos HTTP]()
+    - [Integração com REST e métodos HTTP](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/5-Integra%C3%A7ao-com-REST-e-metodos-HTTP.md)
   
-  - [Conceitos de arquitetura em aplicações para internet]()
+  - [Conceitos de arquitetura em aplicações para internet](https://github.com/luizmarinhojr/servicos-web/tree/master/conceitos-de-arquitetura-em-aplicacoes-moveis)
     
-    - [Introdução à arquitetura de sistemas]()
+    - [Introdução à arquitetura de sistemas](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/6-introducao-a-arquitetura-de-sistemas.md)
