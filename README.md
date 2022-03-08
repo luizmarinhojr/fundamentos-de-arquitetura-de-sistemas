@@ -20,10 +20,10 @@ _<u>OBS: Lembrando que todo conteúdo será atualizado com novas informações e
     
     - [WSDL e XSD](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/3%20-%20WSDL-e-XSD.md)
     
-    - [REST, API e JSON]()
+    - [REST, API e JSON](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/4%20-%20REST%2CAPI%2CJSON.md)
     
     - [Integração com REST e métodos HTTP]()
+  
+  - [Conceitos de arquitetura em aplicações para internet]()
     
     - [Introdução à arquitetura de sistemas]()
-    
-    - [Comparação Monolito e Microsserviços]()
