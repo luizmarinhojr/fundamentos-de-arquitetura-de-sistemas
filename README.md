@@ -26,4 +26,4 @@ _<u>OBS: Lembrando que todo conteúdo será atualizado com novas informações e
   
   - [Conceitos de arquitetura em aplicações para internet](https://github.com/luizmarinhojr/servicos-web/tree/master/conceitos-de-arquitetura-em-aplicacoes-moveis)
     
-    - [Introdução à arquitetura de sistemas](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/servicos-web/6-introducao-a-arquitetura-de-sistemas.md)
+    - [Introdução à arquitetura de sistemas](https://github.com/luizmarinhojr/fundamentos-de-arquitetura-de-sistemas/blob/master/conceitos-de-arquitetura-em-aplicacoes-moveis/1-introducao-a-arquitetura-de-sistemas.md)
